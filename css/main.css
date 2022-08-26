@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+header{
+    width: 100%;
+    height: 61px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+
+}
+.logo{
+    margin-left: 24px;
+}
+.star{
+    margin-left: 247.47px;
+}
+.text{
+    list-style: none;
+    display: flex;
+    font-size: 13px;
+    
+}
+.text li:first-child{
+    margin-left: 13.47px;
+}
+.text li:nth-child(2){
+    margin-left: 46px;
+}
+.text li:nth-child(3){
+    margin-left: 49px;
+}
+.text li:nth-child(4){
+    margin-left: 50px;
+}
+.text li:last-child{
+    margin-left: 295px;
+}
+.korz{
+    margin-left: 25px;
+}
+.container{
+    width: 100%;
+    height: 689px;
+    background-color: #F2AE4D;
+    display: flex;
+    justify-content: center;
+}
+.box-one{
+    width: 480px;
+    height: 319px;
+    background-color: #F2AE4D;
+    margin-top: 165px;
+    margin-left: 120px;
+}
+.box-one img:nth-child(2){
+    margin-top: 33px;
+}
+.box-one img:last-child{
+    margin-top: 14px;
+}
+.box-two{
+    width: 504px;
+    height: 504px;
+   
+    margin-left: 240px;
+    margin-top: 87px;
+}
+.card{
+    width: 100%;
+    height: 120px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    
+}
+.card img:first-child{
+    margin-left: 120px;
+}
+.card img:nth-child(2){
+    margin-left: 16px;
+}
+.card img:nth-child(3){
+    margin-left: 256px;
+}
+.card img:nth-child(4){
+    margin-left: 16px;
+}
+.card img:nth-child(5){
+    margin-left: 254px;
+}
+.card img:last-child{
+    margin-left: 16px;
+}
+.mark{
+    width: 100%;
+    height: 159px;
+    background-color: #EEEEEE;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mark h2{
+    margin-left: 120px;
+}
+.mark img{
+    margin-right: 120px;
+}
+
+.room{
+    width: 100%;
+    height: 863px;
+    background-color: #EEEEEE;
+    display: flex;
+    justify-content: center;
+}
+.room img{
+    width: 1197px;
+    height: 865px;
+}
+.delux{
+    width: 100%;
+    height: 140px;
+    background-color: #EEEEEE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.max{
+    width: 100%;
+    height: 914px;
+    background-color: #EEEEEE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
